@@ -4,7 +4,7 @@
 
 @section('conteudo')
 
-    <h1>Pacientes</h1>
+    <h1>Lista de Pacientes</h1>
 
 
     <div>
